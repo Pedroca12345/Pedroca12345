@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pedro 👋</h1>
 
-<!--
-**Pedroca12345/Pedroca12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💻 Amante da TI • ❤️ Apaixonado por Front-end • 👨‍💻 Explorador do Back-end</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Build-Vite-informational?style=flat&logo=vite&color=646CFF" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎯 **Sobre mim**
+
+Sou apaixonado por tecnologia, especialmente pelo desenvolvimento Front-end — onde posso transformar ideias em experiências visuais incríveis.
+Mas também gosto bastante do universo Back-end e estou sempre buscando entender como as coisas funcionam por trás dos bastidores.
+
+🚀 Atualmente focado em me especializar em **React** e aprimorar minhas habilidades com **JavaScript** e **TypeScript**.
+
+> 🧠 "Quem faz o que ama, vive de férias"
+
+---
+
+🛠️ **Tecnologias que uso com frequência:**
+
+* **Linguagens:** JavaScript, TypeScript, HTML, CSS
+* **Frameworks & Libs:** React, Vite, Node.js
+* **Ferramentas:** Git, GitHub, VSCode, Figma
+
+---
+
+📊 **GitHub Stats**
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedroca12345&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca12345&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+📫 **Vamos conversar?**
+
+Caso queira bater um papo, colaborar ou dar feedback:
+
+📧 [pedrohenriqueanacleto789@gmail.com](mailto:pedrohenriqueanacleto789@gmail.com)
+
+🌐 **Confira meu portfólio:** [MeuPortfolio](https://pedroca12345.github.io/MeuPortfolio)
+
+---
+
+✨ Obrigado por visitar meu perfil!
