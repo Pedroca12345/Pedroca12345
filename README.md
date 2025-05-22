@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro 👋</h1>
+<h1 align="center">Eai, tranquilo? eu sou o Pedro 👋</h1>
 
 <p align="center">💻 Amante da TI • ❤️ Apaixonado por Front-end • 👨‍💻 Explorador do Back-end</p>
 
@@ -15,7 +15,7 @@
 🎯 **Sobre mim**
 
 Sou apaixonado por tecnologia, especialmente pelo desenvolvimento Front-end — onde posso transformar ideias em experiências visuais incríveis.
-Mas também gosto bastante do universo Back-end e estou sempre buscando entender como as coisas funcionam por trás dos bastidores.
+Mas também gosto bastante do universo Back-end e estou sempre buscando entender como as coisas funcionam por debaixo dos panos.
 
 🚀 Atualmente focado em me especializar em **React** e aprimorar minhas habilidades com **JavaScript** e **TypeScript**.
 
@@ -28,15 +28,6 @@ Mas também gosto bastante do universo Back-end e estou sempre buscando entender
 * **Linguagens:** JavaScript, TypeScript, HTML, CSS
 * **Frameworks & Libs:** React, Vite, Node.js
 * **Ferramentas:** Git, GitHub, VSCode, Figma
-
----
-
-📊 **GitHub Stats**
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pedroca12345&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca12345&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
